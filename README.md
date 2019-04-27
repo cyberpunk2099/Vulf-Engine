@@ -1,2 +1,2 @@
-# Vulf-Engine
-Lightweight 2D/3D Graphic Engine
+# Vulf Engine
+A lightweight 2D / 3D graphic engine
